@@ -17,6 +17,7 @@ author_profile: true
 
 ## Work in Progress
 The Effect of Microinsurance on Child Work and Schooling, *draft available upon request*
+
 Long-term Effects of Index-Based Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto)
 
  
