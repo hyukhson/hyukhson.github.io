@@ -16,7 +16,7 @@ author_profile: true
 [Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *Under Review*
 
 ## Work in Progress
-The Effect of Microinsurance on Child Work and Schooling
+The Effect of Microinsurance on Child Work and Schooling, *draft available upon request*
 
 ## In the field
 Tailoring Advice and Incentives to Enhance Consumer Welfare from Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Tagel Gabrehiwot Gidey, [Glenn Harrison](https://cear.gsu.edu/profile/glenn-harrison/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/))
