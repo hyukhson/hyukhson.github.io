@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Post-Doc researcher at Utrecht University School of Economics, and a Post-Doctoral Associate in Charles H. Dyson School of Applied Economics and Management at Cornell University. 
+I am a Post-Doc researcher at Utrecht University School of Economics.
 
 I finished a PhD in Economics from Cornell University in March 2022. 
 
