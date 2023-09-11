@@ -16,7 +16,7 @@ author_profile: true
 [Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *Under Review*
 
 ## Work in Progress
-[The Effect of Microinsurance on Child Work and Schooling](https://hyukhson.github.io/files/gold_mine_child_labor.pdf)
+[The Effect of Microinsurance on Child Work and Schooling](http://hyukhson.github.io/files/ibli_childlabor.pdf)
 
 Long-run Effects of Catastrophic Drought Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto)
 
