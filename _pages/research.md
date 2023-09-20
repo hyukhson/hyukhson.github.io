@@ -13,7 +13,7 @@ Long-run Effects of Catastrophic Drought Insurance (with [Chris Barrett](http://
 
 [Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *HiCN Working paper 353, Under Review*
 
-[Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *Under Review*
+[Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf)
 
 ## Publications
 [When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi](https://doi.org/10.1016/j.jdeveco.2022.102893) (with [James Berry](https://sites.google.com/site/econjimberry/) and [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home)), *Journal of Development Economics*, September 2022. 158(2022). 
