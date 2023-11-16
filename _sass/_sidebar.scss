@@ -73,8 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 100px;
-  // set width only, for non-square avatars
-  height: 125px;
+  // set width only, for non-square avatars height: 125px;
 
   @include breakpoint($large) {
     display: block;
