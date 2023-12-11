@@ -11,7 +11,7 @@ author_profile: true
 
 [The Effect of Microinsurance on Child Work and Schooling](http://hyukhson.github.io/files/ibli_childlabor.pdf)
 
-[Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *HiCN Working paper 353, Under Review*
+[Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *R&R and Economic Development and Cultural Change*
 
 [Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf)
 
