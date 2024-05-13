@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-[Long-run Effects of Catastrophic Drought Insurance](https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf) (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto)
+[Long-run Effects of Catastrophic Drought Insurance](https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf) (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto, Rupsha Banerjee, Nils Teufel)
 
 [The Effect of Microinsurance on Child Work and Schooling](http://hyukhson.github.io/files/ibli_childlabor.pdf), *Submitted*
 
