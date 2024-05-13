@@ -9,7 +9,7 @@ author_profile: true
 
 [Long-run Effects of Catastrophic Drought Insurance](https://hyukhson.github.io/files/Son_JMP_Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf) (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto)
 
-[The Effect of Microinsurance on Child Work and Schooling](http://hyukhson.github.io/files/ibli_childlabor.pdf)
+[The Effect of Microinsurance on Child Work and Schooling](http://hyukhson.github.io/files/ibli_childlabor.pdf), *Submitted*
 
 [Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *R&R at Economic Development and Cultural Change*
 
