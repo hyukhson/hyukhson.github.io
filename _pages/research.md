@@ -21,7 +21,7 @@ author_profile: true
 [Teaching for large-scale Reproducibility Verification](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Meredith Welch](https://www.meredithswelch.com/), [David Wasser](https://www.davidnwasser.com/), and [Michael Darisse](https://sites.google.com/view/michaeldarisse), *Journal of Statistics and Data Science Education*, 2022, vol. 30(3): 274-281.
 
 ## Work in Progress
-Tailoring Advice and Incentives to Enhance Consumer Welfare from Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Tagel Gabrehiwot Gidey, [Glenn Harrison](https://cear.gsu.edu/profile/glenn-harrison/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and and [Todd Swarthout](https://aysps.gsu.edu/profile/todd-swarthout/)  *data collection completed*
+Tailoring Advice and Incentives to Enhance Consumer Welfare from Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Tagel Gabrehiwot Gidey, [Glenn Harrison](https://cear.gsu.edu/profile/glenn-harrison/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and [Todd Swarthout](https://aysps.gsu.edu/profile/todd-swarthout/), *data collection completed*
 
-The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikiku) 
+The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikiku), *fieldwork ongoing*
 
