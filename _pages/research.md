@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-[Long-run Effects of Catastrophic Drought Insurance](https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf) (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto, Rupsha Banerjee, Nils Teufel)
+[Long-run Effects of Catastrophic Drought Insurance](https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf) (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
 
 [The Effect of Microinsurance on Child Work and Schooling](http://hyukhson.github.io/files/ibli_childlabor.pdf), *Submitted*
 
@@ -21,7 +21,7 @@ author_profile: true
 [Teaching for large-scale Reproducibility Verification](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Meredith Welch](https://www.meredithswelch.com/), [David Wasser](https://www.davidnwasser.com/), and [Michael Darisse](https://sites.google.com/view/michaeldarisse), *Journal of Statistics and Data Science Education*, 2022, vol. 30(3): 274-281.
 
 ## Work in Progress
-Tailoring Advice and Incentives to Enhance Consumer Welfare from Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Tagel Gabrehiwot Gidey, [Glenn Harrison](https://cear.gsu.edu/profile/glenn-harrison/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/)), *data collection completed*
+Tailoring Advice and Incentives to Enhance Consumer Welfare from Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Tagel Gabrehiwot Gidey, [Glenn Harrison](https://cear.gsu.edu/profile/glenn-harrison/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and and [Todd Swarthout](https://aysps.gsu.edu/profile/todd-swarthout/)  *data collection completed*
 
-
+The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikiku) 
 
