@@ -23,5 +23,5 @@ author_profile: true
 ## Work in Progress
 Tailoring Advice and Incentives to Enhance Consumer Welfare from Livestock Insurance (with [Chris Barrett](http://barrett.dyson.cornell.edu/), Tagel Gabrehiwot Gidey, [Glenn Harrison](https://cear.gsu.edu/profile/glenn-harrison/), Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and [Todd Swarthout](https://aysps.gsu.edu/profile/todd-swarthout/), *data collection completed*
 
-The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikiku), *in the field*
+The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikuku), *in the field*
 
