@@ -43,8 +43,15 @@ Adverse weather shocks disrupt human capital investment in low-income families i
 Violent conflict has enduring effects on child human capital, but little is understood about the mechanisms underlying these effects. This study investigates the immediate effects of decreased security environment due to foreign-borne terrorism on children’s human capital, using data from a decade before to shortly after the Nigerian Boko Haram insurgency extended across the border to Cameroon. Boko Haram attacks immediately decrease weight-for-height for children under five -- an indicator of short-term health and nutrition, reduce healthcare service utilization which can prolong and aggravate the highly prevalent fever and diarrhea, and do not reduce dietary diversity. Child mortality remains unaffected. Attacks affect school-aged children, who spend more time at home instead of in outside activities. The results underscore the urgent importance of health care service provision after the eruption of violence to prevent irreversible impacts, which is increasingly important in West African countries combating the infiltration of foreign terrorists. 
 </details>
 
-[Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf)
-
+<details> 
+<summary>
+<a href="http://hyukhson.github.io/files/gold_mine_child_labor.pdf">
+  Gold Mine Openings and Child Labor in Mali
+</a>,
+  <i>submitted</i>
+</summary>
+This study investigates the effect of a natural resource shock on child labor using the opening dates and the location of the industrial gold mines in Mali. Unlike other papers that show mines increase children’s work, I find that the opening of mines decreases children’s work, specifically the working hours for household tasks while it does not affect the school enrollments. The effects were heterogeneous by age and birth order. I claim that my results stem from the income effects of the mines dominating the substitution effects by presenting the evidence on the adults’ employment and occupational choices.
+</details>
 ## Publications
 
 
