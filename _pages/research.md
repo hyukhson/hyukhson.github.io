@@ -18,6 +18,10 @@ Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Dr
 
 ## Publications
 [When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi](https://doi.org/10.1016/j.jdeveco.2022.102893) (with [James Berry](https://sites.google.com/site/econjimberry/) and [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home)), *Journal of Development Economics*, September 2022. 158(2022). 
+<details>
+<summary>Abstracts</summary>
+  We study how the structure of tournament incentive schemes in education can influence the level and distribution of student outcomes. Through a field experiment among upper-primary students in Malawi, we evaluate two scholarship programs: a Population-based scholarship that rewarded overall top performers on an exam and a Bin-based scholarship that rewarded the top performers within smaller groups of students with similar baseline scores. We find that the Population-based scholarship decreased test scores and motivation to study, especially for those least likely to win. By contrast, we find no evidence for test score impacts among those in the Bin-based scholarship program. 
+</details>
 
 [Teaching for large-scale Reproducibility Verification](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Meredith Welch](https://www.meredithswelch.com/), [David Wasser](https://www.davidnwasser.com/), and [Michael Darisse](https://sites.google.com/view/michaeldarisse), *Journal of Statistics and Data Science Education*, 2022, vol. 30(3): 274-281.
 
