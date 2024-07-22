@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
+
 <details> 
 <summary>
   Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance , 
@@ -32,7 +33,6 @@ Catastrophic aggregate shocks such as droughts have negative long-run effects on
 </summary>
 Adverse weather shocks disrupt human capital investment in low-income families in developing countries, but the effectiveness of formal insurance in mitigating this is underexplored. This paper investigates how index-based microinsurance affects children’s engagement in work and schooling, employing randomized premium discounts for the Index-Based Livestock Insurance (IBLI) program as instrumental variables for insurance uptake. I find that insured pastoral households shift children’s activity from work to schooling during non-drought periods, and less likely to increase children’s work during droughts. Moreover, there are heterogeneous impacts across age, birth order, and gender, with insurance increasing full-time work among first-born and older children during non-drought periods, while mitigating adverse effects of droughts, particularly for girls. These shifts in children’s activities are largely influenced by increased herd mobility and size, as well as investments in livestock during non-drought periods.
 </details>
-
 
 <details> 
 <summary>
