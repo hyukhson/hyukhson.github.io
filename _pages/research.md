@@ -111,6 +111,11 @@ We describe a unique environment in which undergraduate students from various ST
 </div>
 </details>
 <p> </p>
+  
+## Work in Progress
+
+The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikuku), *in the field*
+
 
 
 div.text-box {
@@ -120,8 +125,3 @@ div.text-box {
  background: gray;
  margin: 0;
 }
-  
-## Work in Progress
-
-The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikuku), *in the field*
-
