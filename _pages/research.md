@@ -116,12 +116,3 @@ We describe a unique environment in which undergraduate students from various ST
 
 The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikuku), *in the field*
 
-
-
-div.text-box {
- width: 80%;
- padding: 10px;
- border: 5px solid white;
- background: gray;
- margin: 0;
-}
