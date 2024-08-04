@@ -92,6 +92,7 @@ div.text-box {
  width: 80%;
  padding: 10px;
  border: 5px solid white;
+ background: gray;
  margin: 0;
 }
   
