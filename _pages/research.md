@@ -20,7 +20,7 @@ We study how the structure of tournament incentive schemes in education can infl
  </p>
 </div>
 </details>
-
+<p> </p>
 
 <details> 
 <summary>
