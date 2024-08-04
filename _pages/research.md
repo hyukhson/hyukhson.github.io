@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-
 <details> 
 <summary>
 <a href="https://doi.org/10.1016/j.jdeveco.2022.102893"> When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi</a>, 
@@ -13,7 +12,7 @@ author_profile: true
   <i>Journal of Development Economics</i>, September 2022. 158(2022).
 </summary>
 <div class="text-box">
- <p style="text-align: left">
+ <p style="text-align: left; background-color: gray; border: 5px solid white;">
 <b>Abstract </b>
 <br>
 We study how the structure of tournament incentive schemes in education can influence the level and distribution of student outcomes. Through a field experiment among upper-primary students in Malawi, we evaluate two scholarship programs: a Population-based scholarship that rewarded overall top performers on an exam and a Bin-based scholarship that rewarded the top performers within smaller groups of students with similar baseline scores. We find that the Population-based scholarship decreased test scores and motivation to study, especially for those least likely to win. By contrast, we find no evidence for test score impacts among those in the Bin-based scholarship program.  
