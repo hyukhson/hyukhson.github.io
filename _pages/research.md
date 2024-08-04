@@ -14,7 +14,7 @@ author_profile: true
 </summary>
 <b>Abstract </b>
 <br>
- We study how the structure of tournament incentive schemes in education can influence the level and distribution of student outcomes. Through a field experiment among upper-primary students in Malawi, we evaluate two scholarship programs: a Population-based scholarship that rewarded overall top performers on an exam and a Bin-based scholarship that rewarded the top performers within smaller groups of students with similar baseline scores. We find that the Population-based scholarship decreased test scores and motivation to study, especially for those least likely to win. By contrast, we find no evidence for test score impacts among those in the Bin-based scholarship program.  
+We study how the structure of tournament incentive schemes in education can influence the level and distribution of student outcomes. Through a field experiment among upper-primary students in Malawi, we evaluate two scholarship programs: a Population-based scholarship that rewarded overall top performers on an exam and a Bin-based scholarship that rewarded the top performers within smaller groups of students with similar baseline scores. We find that the Population-based scholarship decreased test scores and motivation to study, especially for those least likely to win. By contrast, we find no evidence for test score impacts among those in the Bin-based scholarship program.  
 </details>  
 
 <details> 
@@ -25,7 +25,7 @@ author_profile: true
 </summary>
 <b>Abstract </b>
 <br>
-  We describe a unique environment in which undergraduate students from various STEM and social science disciplines are trained in data provenance and reproducible methods, and then apply that knowledge to real, conditionally accepted manuscripts and associated replication packages. We describe in detail the recruitment, training, and regular activities. While the activity is not part of a regular curriculum, the skills and knowledge taught through explicit training of reproducible methods and principles, and reinforced through repeated application in a real-life workflow, contribute to the education of these undergraduate students, and prepare them for post-graduation jobs and further studies. Supplementary materials for this article are available online.
+We describe a unique environment in which undergraduate students from various STEM and social science disciplines are trained in data provenance and reproducible methods, and then apply that knowledge to real, conditionally accepted manuscripts and associated replication packages. We describe in detail the recruitment, training, and regular activities. While the activity is not part of a regular curriculum, the skills and knowledge taught through explicit training of reproducible methods and principles, and reinforced through repeated application in a real-life workflow, contribute to the education of these undergraduate students, and prepare them for post-graduation jobs and further studies. Supplementary materials for this article are available online.
 </details>
 
 ## Working Papers
@@ -50,7 +50,7 @@ author_profile: true
 <b>Abstract </b>
 <br>
   Adverse weather shocks disrupt human capital investment in low-income families in developing countries, but the effectiveness of formal insurance in mitigating this is underexplored. This paper investigates how index-based microinsurance affects children’s engagement in work and schooling, employing randomized premium discounts for the Index-Based Livestock Insurance (IBLI) program as instrumental variables for insurance uptake. I find that insured pastoral households shift children’s activity from work to schooling during non-drought periods, and less likely to increase children’s work during droughts. Moreover, there are heterogeneous impacts across age, birth order, and gender, with insurance increasing full-time work among first-born and older children during non-drought periods, while mitigating adverse effects of droughts, particularly for girls. These shifts in children’s activities are largely influenced by increased herd mobility and size, as well as investments in livestock during non-drought periods.
-</details>\
+</details>
 
 <details> 
 <summary>
