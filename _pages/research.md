@@ -52,6 +52,7 @@ We describe a unique environment in which undergraduate students from various ST
  </p>
 </div>
 </details>
+<p> </p>
 
 <details> 
 <summary>
@@ -68,6 +69,7 @@ We describe a unique environment in which undergraduate students from various ST
  </p>
 </div>
 </details>
+<p> </p>
 
 <details> 
 <summary>
@@ -75,6 +77,7 @@ We describe a unique environment in which undergraduate students from various ST
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://cear.gsu.edu/profile/glenn-harrison/">Glenn Harrison</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>), and <a href="https://aysps.gsu.edu/profile/todd-swarthout/">J. Todd Swarthout</a>)
 </summary>
 </details>
+<p> </p>
 
 <details> 
 <summary>
@@ -91,6 +94,7 @@ We describe a unique environment in which undergraduate students from various ST
  </p>
 </div>
 </details>
+<p> </p>
 
 <details> 
 <summary>
@@ -106,6 +110,7 @@ We describe a unique environment in which undergraduate students from various ST
  </p>
 </div>
 </details>
+<p> </p>
 
 
 div.text-box {
