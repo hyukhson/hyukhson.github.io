@@ -15,7 +15,9 @@ author_profile: true
 <b>Abstract </b>
 <br>
 We study how the structure of tournament incentive schemes in education can influence the level and distribution of student outcomes. Through a field experiment among upper-primary students in Malawi, we evaluate two scholarship programs: a Population-based scholarship that rewarded overall top performers on an exam and a Bin-based scholarship that rewarded the top performers within smaller groups of students with similar baseline scores. We find that the Population-based scholarship decreased test scores and motivation to study, especially for those least likely to win. By contrast, we find no evidence for test score impacts among those in the Bin-based scholarship program.  
-</details> <br>
+</details>
+
+#### 
 
 <details> 
 <summary>
@@ -38,7 +40,7 @@ We describe a unique environment in which undergraduate students from various ST
 <b>Abstract </b>
 <br>
   Violent conflict has enduring effects on child human capital, but little is understood about the mechanisms underlying these effects. This study investigates the immediate effects of decreased security environment due to foreign-borne terrorism on children’s human capital, using data from a decade before to shortly after the Nigerian Boko Haram insurgency extended across the border to Cameroon. Boko Haram attacks immediately decrease weight-for-height for children under five -- an indicator of short-term health and nutrition, reduce healthcare service utilization which can prolong and aggravate the highly prevalent fever and diarrhea, and do not reduce dietary diversity. Child mortality remains unaffected. Attacks affect school-aged children, who spend more time at home instead of in outside activities. The results underscore the urgent importance of health care service provision after the eruption of violence to prevent irreversible impacts, which is increasingly important in West African countries combating the infiltration of foreign terrorists. 
-</details><br>
+</details>
 
 <details> 
 <summary>
