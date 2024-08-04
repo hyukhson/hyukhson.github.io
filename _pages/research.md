@@ -85,6 +85,14 @@ We describe a unique environment in which undergraduate students from various ST
 <br>
   This study investigates the effect of a natural resource shock on child labor using the opening dates and the location of the industrial gold mines in Mali. Unlike other papers that show mines increase children’s work, I find that the opening of mines decreases children’s work, specifically the working hours for household tasks while it does not affect the school enrollments. The effects were heterogeneous by age and birth order. I claim that my results stem from the income effects of the mines dominating the substitution effects by presenting the evidence on the adults’ employment and occupational choices.
 </details>
+
+
+div.text-box {
+ width: 80%;
+ padding: 10px;
+ border: 5px solid white;
+ margin: 0;
+}
   
 ## Work in Progress
 
