@@ -7,9 +7,10 @@ author_profile: true
 ## Publications
 <details> 
 <summary>
-<a href="https://doi.org/10.1016/j.jdeveco.2022.102893"> When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi</a>, 
+  When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi, 
   (with <a href="https://sites.google.com/site/econjimberry/">James Berry</a> and <a href="https://sites.google.com/site/hk2405/home">Hyuncheol Bryant Kim</a>), 
-  <i>Journal of Development Economics</i>, September 2022. 158(2022).
+  <i>Journal of Development Economics</i>, September 2022. 158(2022). 
+  [<a href="https://doi.org/10.1016/j.jdeveco.2022.102893"> Link </a>]
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
@@ -23,9 +24,9 @@ We study how the structure of tournament incentive schemes in education can infl
 
 <details> 
 <summary>
-<a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582"> Teaching for large-scale Reproducibility Verification</a>, 
-  (with <a href="https://www.vilhuber.com/lars/">Lars Vilhuber</a>, <a href="https://www.meredithswelch.com/">Meredith Welch</a>), <a href="https://www.davidnwasser.com/">David Wasser</a>), and <a href="https://sites.google.com/view/michaeldarisse">Michael Darisse</a>), 
-  <i>Journal of Statistics and Data Science Education</i>, 2022, vol. 30(3): 274-281.
+Teaching for large-scale Reproducibility Verification, (with <a href="https://www.vilhuber.com/lars/">Lars Vilhuber</a>, <a href="https://www.meredithswelch.com/">Meredith Welch</a>), <a href="https://www.davidnwasser.com/">David Wasser</a>), and <a href="https://sites.google.com/view/michaeldarisse">Michael Darisse</a>), 
+  <i>Journal of Statistics and Data Science Education</i>, 2022, vol. 30(3): 274-281. 
+  <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582"> Link </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
@@ -39,9 +40,10 @@ We describe a unique environment in which undergraduate students from various ST
 ## Working Papers
 <details> 
 <summary>
-<a href="https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/"> Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency</a>, 
+Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency, 
   (with <a href="https://sites.google.com/view/heidikaila/home">Heidi Kaila</a> and Larissa Nawo), 
-  <i>R&R at Economic Development and Cultural Change</i>
+  <i>R&R at Economic Development and Cultural Change</i> 
+  <a href="https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/"> Link </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
@@ -55,10 +57,9 @@ We describe a unique environment in which undergraduate students from various ST
 
 <details> 
 <summary>
-<a href="http://hyukhson.github.io/files/ibli_childlabor.pdf">
-  The Effect of Microinsurance on Child Work and Schooling
-</a>,
-  <i>submitted</i>
+The Effect of Microinsurance on Child Work and Schooling,
+  <i>submitted</i> 
+  <a href="http://hyukhson.github.io/files/ibli_childlabor.pdf">Link</a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
@@ -80,10 +81,9 @@ We describe a unique environment in which undergraduate students from various ST
 
 <details> 
 <summary>
-<a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf">
-  Long-run Effects of Catastrophic Drought Insurance
-</a>, 
+Long-run Effects of Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>), Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
+  <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> Link </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
@@ -97,9 +97,8 @@ We describe a unique environment in which undergraduate students from various ST
 
 <details> 
 <summary>
-<a href="http://hyukhson.github.io/files/gold_mine_child_labor.pdf">
-  Gold Mine Openings and Child Labor in Mali
-</a>
+Gold Mine Openings and Child Labor in Mali,
+<a href="http://hyukhson.github.io/files/gold_mine_child_labor.pdf"> Link </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
