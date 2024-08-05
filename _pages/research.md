@@ -24,7 +24,7 @@ We study how the structure of tournament incentive schemes in education can infl
 
 <details> 
 <summary>
-Teaching for large-scale Reproducibility Verification, (with <a href="https://www.vilhuber.com/lars/">Lars Vilhuber</a>, <a href="https://www.meredithswelch.com/">Meredith Welch</a>), <a href="https://www.davidnwasser.com/">David Wasser</a>), and <a href="https://sites.google.com/view/michaeldarisse">Michael Darisse</a>), 
+Teaching for large-scale Reproducibility Verification, (with <a href="https://www.vilhuber.com/lars/">Lars Vilhuber</a>, <a href="https://www.meredithswelch.com/">Meredith Welch</a>, <a href="https://www.davidnwasser.com/">David Wasser</a>), and <a href="https://sites.google.com/view/michaeldarisse">Michael Darisse</a>), 
   <i>Journal of Statistics and Data Science Education</i>, 2022, vol. 30(3): 274-281. 
   <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582"> [Link] </a>
 </summary>
