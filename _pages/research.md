@@ -74,7 +74,7 @@ The Effect of Microinsurance on Child Work and Schooling,
 <details> 
 <summary>
   Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
-(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://cear.gsu.edu/profile/glenn-harrison/">Glenn Harrison</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>), and <a href="https://aysps.gsu.edu/profile/todd-swarthout/">J. Todd Swarthout</a>)
+(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://cear.gsu.edu/profile/glenn-harrison/">Glenn Harrison</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and <a href="https://aysps.gsu.edu/profile/todd-swarthout/">J. Todd Swarthout</a>)
 </summary>
 </details>
 <p> </p>
