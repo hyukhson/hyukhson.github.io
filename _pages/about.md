@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Post-Docotral researcher at Utrecht University School of Economics.
 
-My research areas include Development Economics and Labor Economics, specifically around the constraints and the incentives of human capital developments in low-income settings.
+My research areas include Development Economics and Labor Economics, specifically around the human capital developments and risk mitigattion strategies in low-income settings.
 
-I received my PhD in Economics from Cornell University. 
+Prior to joining Utrecht University, I received my PhD in Economics from Cornell University in 2022. 
 
