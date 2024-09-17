@@ -10,7 +10,7 @@ author_profile: true
   When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi, 
   (with <a href="https://sites.google.com/site/econjimberry/">James Berry</a> and <a href="https://sites.google.com/site/hk2405/home">Hyuncheol Bryant Kim</a>), 
   <i>Journal of Development Economics</i>, September 2022. 158(2022). 
-  <a href="https://doi.org/10.1016/j.jdeveco.2022.102893"> [Link] </a>
+  <a href="https://doi.org/10.1016/j.jdeveco.2022.102893" target="_blank"> [Link] </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
