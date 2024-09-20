@@ -73,14 +73,6 @@ The Effect of Microinsurance on Child Work and Schooling,
 
 <details> 
 <summary>
-  Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
-(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://cear.gsu.edu/profile/glenn-harrison/">Glenn Harrison</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and <a href="https://aysps.gsu.edu/profile/todd-swarthout/">J. Todd Swarthout</a>)
-</summary>
-</details>
-<p> </p>
-
-<details> 
-<summary>
 Long-run Effects of Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
   <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>
@@ -92,6 +84,14 @@ Long-run Effects of Catastrophic Drought Insurance,
   Catastrophic aggregate shocks such as droughts have negative long-run effects on lifetime well-being. While formal insurance against such shocks has repeatedly yielded positive short-run impacts, the long-run effects of formal disaster insurance remain unknown. We study the long-run impacts of catastrophic drought insurance on pastoral households in Kenya and Ethiopia. We leverage randomized insurance premium discounts distributed when this insurance product was first introduced to estimate its impacts ten years later. We find that insurance changes household production strategies -- increasing holdings of large animals at the expense of small livestock like goats -- and a substantial increase in children's education. These findings are linked because changed herd composition reduces the marginal productivity of child labor and generates positive income effects. Reduced <i>ex ante</i> risk exposure and the behavioral change it induces -- not the cash transfers resulting from <i>ex post</i> indemnity payments  -- generate the long-run effects. The results are robust to controlling for prospective interpersonal spillovers among households.  
  </p>
 </div>
+</details>
+<p> </p>
+
+<details> 
+<summary>
+  Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
+(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://cear.gsu.edu/profile/glenn-harrison/">Glenn Harrison</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and <a href="https://aysps.gsu.edu/profile/todd-swarthout/">J. Todd Swarthout</a>)
+</summary>
 </details>
 <p> </p>
 
