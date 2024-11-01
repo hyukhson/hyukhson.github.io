@@ -75,6 +75,7 @@ The Effect of Microinsurance on Child Work and Schooling,
 <summary>
 Long-run Effects of Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
+  <i>submitted</i> 
   <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>
 </summary>
 <div class="text-box">
