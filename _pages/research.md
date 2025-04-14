@@ -40,16 +40,16 @@ We describe a unique environment in which undergraduate students from various ST
 ## Working Papers
 <details> 
 <summary>
-Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency, 
+Unpacking the Links between Conflict and Child Health: Evidence from a Foreign Insurgency, 
   (with <a href="https://sites.google.com/view/heidikaila/home">Heidi Kaila</a> and Larissa Nawo), 
   <i>R&R at Economic Development and Cultural Change</i> 
-  <a href="https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/"> [Link] </a>
+  <a href="http://hyukhson.github.io/files/Kaila_al_2023_Cameroon_Conflict_Child_Health.pdf"> [Link] </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
 <b>Abstract </b>
 <br>
-  Violent conflict has enduring effects on child human capital, but little is understood about the mechanisms underlying these effects. This study investigates the immediate effects of decreased security environment due to foreign-borne terrorism on children’s human capital, using data from a decade before to shortly after the Nigerian Boko Haram insurgency extended across the border to Cameroon. Boko Haram attacks immediately decrease weight-for-height for children under five -- an indicator of short-term health and nutrition, reduce healthcare service utilization which can prolong and aggravate the highly prevalent fever and diarrhea, and do not reduce dietary diversity. Child mortality remains unaffected. Attacks affect school-aged children, who spend more time at home instead of in outside activities. The results underscore the urgent importance of health care service provision after the eruption of violence to prevent irreversible impacts, which is increasingly important in West African countries combating the infiltration of foreign terrorists. 
+  Violent conflict has enduring effects on child health, but the speed at which these effects manifest is not fully understood. This study investigates the immediate effects of deteriorating security environment caused by foreign-borne insurgent terrorism on children’s health, using data from a decade before to shortly after the Nigerian Boko Haram insurgency extended across the border to Cameroon. Boko Haram at- tacks decrease weight for-height for children under five – an indicator of short-term health and nutrition – within an average of 2.6 months after the attacks. This effect is likely driven by a reduction in healthcare service utilization, which can exacerbate the prevalence and the severity of conditions such as fever and diarrhea. However, the attacks do not affect dietary diversity or child mortality. The results underscore the importance of maintaining healthcare service accessibility following the eruption of violence to prevent irreversible impacts, a concern that is increasingly relevant for countries combating the infiltration of foreign terrorists. 
  </p>
 </div>
 </details>
@@ -82,7 +82,7 @@ Long-run Effects of Catastrophic Drought Insurance,
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
 <b>Abstract </b>
 <br>
-  Catastrophic aggregate shocks such as droughts have negative long-run effects on lifetime well-being. While formal insurance against such shocks has repeatedly yielded positive short-run impacts, the long-run effects of formal disaster insurance remain unknown. We study the long-run impacts of catastrophic drought insurance on pastoral households in Kenya and Ethiopia. We leverage randomized insurance premium discounts distributed when this insurance product was first introduced to estimate its impacts ten years later. We find that insurance changes household production strategies -- increasing holdings of large animals at the expense of small livestock like goats -- and a substantial increase in children's education. These findings are linked because changed herd composition reduces the marginal productivity of child labor and generates positive income effects. Reduced <i>ex ante</i> risk exposure and the behavioral change it induces -- not the cash transfers resulting from <i>ex post</i> indemnity payments  -- generate the long-run effects. The results are robust to controlling for prospective interpersonal spillovers among households.  
+  We study the long-run effects of catastrophic drought insurance on pastoralist households in Kenya and Ethiopia. Instrumenting with randomized premium discounts, we estimate the im- pacts of insurance coverage a decade later. Insurance induced households to herd fewer small livestock like goats, typically used as precautionary savings, and generated a significant in- crease in children’s education. These effects are driven by households with small baseline herds, reflecting reduced child labor demand, as well as by suggestive positive income effects. These impacts stem primarily from reduced <i></i>ex ante</i> risk exposure and the behavioral change it induces, rather than from <i>ex post</i> indemnity payments.  
  </p>
 </div>
 </details>
