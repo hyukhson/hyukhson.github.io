@@ -57,7 +57,7 @@ Unpacking the Links between Conflict and Child Health: Evidence from a Foreign I
 
 <details> 
 <summary>
-The Effect of Microinsurance on Child Work and Schooling,
+Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of Index Insurance in East Africa,
   <i>submitted</i> 
   <a href="http://hyukhson.github.io/files/ibli_childlabor.pdf"> [Link] </a>
 </summary>
