@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Post-Docotral researcher at Utrecht University School of Economics.
+I am a Post-Doctoral researcher at Utrecht University School of Economics.
 
 My research areas include Development Economics, Labor Economics, and Education Economics, specifically around the human capital developments and risk management strategies in low-income settings.
 
