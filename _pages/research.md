@@ -59,7 +59,7 @@ Unpacking the Links between Conflict and Child Health: Evidence from a Foreign I
 <summary>
 Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of Index Insurance in East Africa,
   <i>submitted</i> 
-  <a href="http://hyukhson.github.io/files/ibli_childlabor.pdf"> [Link] </a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5354091"> [Link] </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
