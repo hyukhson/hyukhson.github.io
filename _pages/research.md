@@ -36,24 +36,25 @@ We describe a unique environment in which undergraduate students from various ST
  </p>
 </div>
 </details>
+<p> </p>
 
-## Working Papers
 <details> 
 <summary>
 Unpacking the Links between Conflict and Child Health: Evidence from a Foreign Insurgency, 
   (with <a href="https://sites.google.com/view/heidikaila/home">Heidi Kaila</a> and Larissa Nawo), 
-  <i>Accepted at Economic Development and Cultural Change</i> 
+  <i>Economic Development and Cultural Change, Accepted</i> 
   <a href="http://hyukhson.github.io/files/Kaila_al_2023_Cameroon_Conflict_Child_Health.pdf"> [Link] </a>
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
 <b>Abstract </b>
 <br>
-  Violent conflict has enduring effects on child health, but the speed at which these effects manifest is not fully understood. This study investigates the immediate effects of deteriorating security environment caused by foreign-borne insurgent terrorism on children’s health, using data from a decade before to shortly after the Nigerian Boko Haram insurgency extended across the border to Cameroon. Boko Haram at- tacks decrease weight for-height for children under five – an indicator of short-term health and nutrition – within an average of 2.6 months after the attacks. This effect is likely driven by a reduction in healthcare service utilization, which can exacerbate the prevalence and the severity of conditions such as fever and diarrhea. However, the attacks do not affect dietary diversity or child mortality. The results underscore the importance of maintaining healthcare service accessibility following the eruption of violence to prevent irreversible impacts, a concern that is increasingly relevant for countries combating the infiltration of foreign terrorists. 
+  Violent conflict has enduring effects on child health, but the speed at which these effects manifest is not fully understood. This study investigates the immediate effects of deteriorating security environment caused by foreign-borne insurgent terrorism on children’s health, using data from a decade before to shortly after the Nigerian Boko Haram insurgency extended across the border to Cameroon. Boko Haram at- tacks decrease weight-for-height for children under five – an indicator of short-term health and nutrition – within an average of 2.6 months after the attacks. This effect is likely driven by a reduction in healthcare service utilization, which can exacerbate the prevalence and the severity of conditions such as fever and diarrhea. However, the attacks do not affect dietary diversity or child mortality. The results underscore the importance of maintaining accessibility to healthcare service after the start of terrorist violence to prevent irreversible impacts, a concern that is increasingly relevant for countries combating the infiltration of foreign terrorists.
  </p>
 </div>
 </details>
-<p> </p>
+
+## Working Papers
 
 <details> 
 <summary>
