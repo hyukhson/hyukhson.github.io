@@ -113,5 +113,5 @@ Gold Mine Openings and Child Labor in Mali,
   
 ## Work in Progress
 
-The Impact of Information about Consumer Value and Contract Performance on Demand and Welfare of Insurance (with Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), and Kelvin Shikuku), *in the field*
+Information, insurance decisions and conflict in the household (with Tagel Gebrehiwot, Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Kelvin Shikuku, and Anouk van Veldhoven), *in the field*
 
