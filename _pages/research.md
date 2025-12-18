@@ -42,7 +42,7 @@ We describe a unique environment in which undergraduate students from various ST
 <summary>
 Unpacking the Links between Conflict and Child Health: Evidence from a Foreign Insurgency, 
   (with <a href="https://sites.google.com/view/heidikaila/home">Heidi Kaila</a> and Larissa Nawo), 
-  <i>Economic Development and Cultural Change</i>, forthcoming
+  <i>Economic Development and Cultural Change</i>, accepted
   <a href="http://hyukhson.github.io/files/Kaila_al_2026_Cameroon_Conflict_Child_Health.pdf"> [Link] </a>
 </summary>
 <div class="text-box">
