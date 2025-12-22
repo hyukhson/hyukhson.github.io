@@ -116,5 +116,6 @@ Gold Mine Openings and Child Labor in Mali,
 ## Work in Progress
 
 Information, insurance decisions and conflict in the household (with Tagel Gebrehiwot, Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Kelvin Shikuku, and Anouk van Veldhoven), *Writing Draft*
-<p> </p>
+
+
 Updating Climate Beliefs: The Interaction Between Traditional Knowledge and Scientific Forecasting”, with [Karlijn Morsink](https://www.karlijnmorsink.com/), and Iza Eerkens, *Writing Draft*
