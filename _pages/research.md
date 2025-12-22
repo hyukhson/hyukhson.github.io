@@ -77,7 +77,7 @@ Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of I
 Long-run Effects of Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
 <i>, submitted</i> 
-  <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>
+  <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>,
   <a href="https://www.financialprotectionforum.org/blog/pilot-scale-how-research-powers-pastoralists-progress"> [Blog] </a>
 </summary>
 <div class="text-box">
