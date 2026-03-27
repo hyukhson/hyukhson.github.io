@@ -55,6 +55,23 @@ Unpacking the Links between Conflict and Child Health: Evidence from a Foreign I
 </details>
 
 ## Working Papers
+<details> 
+<summary>
+Long-run Effects of Catastrophic Drought Insurance, 
+(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
+<i>, submitted </i> 
+  <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>,
+  <a href="https://www.financialprotectionforum.org/blog/pilot-scale-how-research-powers-pastoralists-progress"> [Blog] </a>
+</summary>
+<div class="text-box">
+<p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
+<b>Abstract </b>
+<br>
+  We study the long-run effects of catastrophic drought insurance on pastoralist households in Kenya and Ethiopia. Instrumenting with randomized premium discounts, we estimate the im- pacts of insurance coverage a decade later. Insurance induced households to herd fewer small livestock like goats, typically used as precautionary savings, and generated a significant in- crease in children’s education. These effects are driven by households with small baseline herds, reflecting reduced child labor demand, as well as by suggestive positive income effects. These impacts stem primarily from reduced <i></i>ex ante</i> risk exposure and the behavioral change it induces, rather than from <i>ex post</i> indemnity payments.  
+ </p>
+</div>
+</details>
+<p> </p>
 
 <details> 
 <summary>
@@ -74,27 +91,16 @@ Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of I
 
 <details> 
 <summary>
-Long-run Effects of Catastrophic Drought Insurance, 
-(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
-<i>, submitted</i> 
-  <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>,
-  <a href="https://www.financialprotectionforum.org/blog/pilot-scale-how-research-powers-pastoralists-progress"> [Blog] </a>
+  Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
+(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and Max Yap)
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
 <b>Abstract </b>
 <br>
-  We study the long-run effects of catastrophic drought insurance on pastoralist households in Kenya and Ethiopia. Instrumenting with randomized premium discounts, we estimate the im- pacts of insurance coverage a decade later. Insurance induced households to herd fewer small livestock like goats, typically used as precautionary savings, and generated a significant in- crease in children’s education. These effects are driven by households with small baseline herds, reflecting reduced child labor demand, as well as by suggestive positive income effects. These impacts stem primarily from reduced <i></i>ex ante</i> risk exposure and the behavioral change it induces, rather than from <i>ex post</i> indemnity payments.  
- </p>
-</div>
-</details>
-<p> </p>
-
-<details> 
-<summary>
-  Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
-(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://cear.gsu.edu/profile/glenn-harrison/">Glenn Harrison</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and <a href="https://aysps.gsu.edu/profile/todd-swarthout/">J. Todd Swarthout</a>)
-</summary>
+Can personalized, data-driven financial advice improve consumer welfare in markets where products are sold through intermediaries with potentially misaligned incentives? We study this question in the market for index-based catastrophic drought insurance in Ethiopia. We develop a model to compute household-specific expected consumer surplus and provide real-time, tailored recommendations in a cluster-randomized trial with 2,416 households served by 80 agents. We estimate that 85% of respondents would maximize their expected welfare by buying insurance, but only 8% do; meanwhile 9\% of those estimated to be made worse off by insurance purchase nevertheless do. Clearly, considerable scope exists to improve consumer insurance purchase decisions. But providing personalized advice alone has no detectable effect on insurance take-up or expected consumer welfare under standard revenue-based sales incentives. When advice is paired with agent incentives that align with consumer-welfare-maximizing recommendations, insurance take-up declines, households for whom purchasing insurance reduces expected consumer welfare are less likely to purchase, and expected consumer surplus increases. The welfare gains are concentrated among households with low baseline product knowledge. Our findings show that the effectiveness of personalized financial advice depends critically on intermediary incentives and seems more effective at reducing agent-mediated overselling than at promoting uptake by consumers with unrealized expected gains from insurance.
+</p>
+</div>  
 </details>
 <p> </p>
 
@@ -113,7 +119,7 @@ Gold Mine Openings and Child Labor in Mali,
 </details>
 <p> </p>
   
-## Work in Progress
+## Selected Work in Progress
 
 Information, insurance decisions and conflict in the household (with Tagel Gebrehiwot, Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Kelvin Shikuku, and Anouk van Veldhoven), *Writing Draft*
 
