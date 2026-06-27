@@ -9,7 +9,7 @@ author_profile: true
 <summary>
 Unpacking the Links between Conflict and Child Health: Evidence from a Foreign Insurgency, 
   (with <a href="https://sites.google.com/view/heidikaila/home">Heidi Kaila</a> and Larissa Nawo), 
-  <i>Economic Development and Cultural Change</i>, July 2026, 74(4), 000-000
+  <i>Economic Development and Cultural Change</i>, July 2026, 74(4).
   <a href="https://doi.org/10.1086/740156"> [Link] </a>
 </summary>
 <div class="text-box">
