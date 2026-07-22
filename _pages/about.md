@@ -15,5 +15,4 @@ My research spans two complementary areas:
 
 Across both areas, I use field experiments and impact evaluations to understand and inform policies that promote welfare and resilience in vulnerable communities.
 
-I received my Ph.D. in Economics from Cornell University and previously worked as a Post-Doctoral Researcher at Utrecht University.
 
