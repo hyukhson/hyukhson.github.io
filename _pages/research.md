@@ -128,4 +128,6 @@ Updating Climate Beliefs: The Interaction Between Traditional Knowledge and Scie
 
 Back to School: The Effects of Re-entry Policies on Teen Mothers' Education in Senegal, (with [Aleksandra Jakubowski](https://www.aleksandrajakubowski.com/) and Elizabeth Nakiyingi), *Writing Draft*
 
-AI-Based Assessment and Development of Durable Skills, (with [Chris Unger](https://cps.northeastern.edu/faculty/chris-unger/) and Allison Ruda), *Analysis Ongoing*
+AI-Based Assessment and Development of Durable Skills, (with [Chris Unger](https://cps.northeastern.edu/faculty/chris-unger/) and Allison Ruda),  *Writing Draft* 
+
+Skills-Based Hiring and Employer Preferences for Demonstrated Competencies: Evidence from a Discrete Choice Experiment, (with [Amanda Welsh](https://cps.northeastern.edu/faculty/amanda-welsh/) and Ellen Stoddard), *Writing Draft* 
