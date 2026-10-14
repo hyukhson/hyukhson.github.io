@@ -61,7 +61,7 @@ We describe a unique environment in which undergraduate students from various ST
 <summary>
 Long-run Effects of Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
-<i>, submitted </i> 
+<i>, R&R at American Economic Review </i> 
   <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>,
   <a href="https://www.financialprotectionforum.org/blog/pilot-scale-how-research-powers-pastoralists-progress"> [Blog] </a>
 </summary>
@@ -122,8 +122,10 @@ Gold Mine Openings and Child Labor in Mali,
 <p> </p>
   
 ## Selected Work in Progress
-
 From Climate Change to Household Conflict: Weather Shocks, Insurance and Intimate Partner Violence (with Tagel Gebrehiwot, Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Kelvin Shikuku, and Anouk van Veldhoven), *Writing Draft*
 
-
 Updating Climate Beliefs: The Interaction Between Traditional Knowledge and Scientific Forecasting (with [Karlijn Morsink](https://www.karlijnmorsink.com/), and Iza Eerkens), *Writing Draft*
+
+Back to School: The Effects of Re-entry Policies on Teen Mothers' Education in Senegal, (with [Aleksandra Jakubowski](https://www.aleksandrajakubowski.com/) and Elizabeth Nakiyingi), *Writing Draft*
+
+AI-Based Assessment and Development of Durable Skills, (with [Chris Unger](https://cps.northeastern.edu/faculty/chris-unger/) and Allison Ruda), *Analysis Ongoing*
