@@ -60,7 +60,7 @@ We describe a unique environment in which undergraduate students from various ST
 <details> 
 <summary>
 Long-run Effects of Catastrophic Drought Insurance, 
-(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
+(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, <a href="https://sites.google.com/cornell.edu/nathan-jensen/home">Nathan Jensen</a>, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
 <i>, R&R at American Economic Review </i> 
   <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>,
   <a href="https://www.financialprotectionforum.org/blog/pilot-scale-how-research-powers-pastoralists-progress"> [Blog] </a>
@@ -94,7 +94,7 @@ Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of I
 <details> 
 <summary>
   Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
-(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  Nathan Jensen, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and Max Yap)
+(with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://sites.google.com/cornell.edu/nathan-jensen/home">Nathan Jensen</a>, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and Max Yap)
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
@@ -122,7 +122,7 @@ Gold Mine Openings and Child Labor in Mali,
 <p> </p>
   
 ## Selected Work in Progress
-From Climate Change to Household Conflict: Weather Shocks, Insurance and Intimate Partner Violence (with Tagel Gebrehiwot, Lotte van der Haar, Nathan Jensen, [Karlijn Morsink](https://www.karlijnmorsink.com/), Kelvin Shikuku, and Anouk van Veldhoven), *Writing Draft*
+From Climate Change to Household Conflict: Weather Shocks, Insurance and Intimate Partner Violence (with Tagel Gebrehiwot, Lotte van der Haar, <a href="https://sites.google.com/cornell.edu/nathan-jensen/home">Nathan Jensen</a>, [Karlijn Morsink](https://www.karlijnmorsink.com/), Kelvin Shikuku, and Anouk van Veldhoven), *Writing Draft*
 
 Updating Climate Beliefs: The Interaction Between Traditional Knowledge and Scientific Forecasting (with [Karlijn Morsink](https://www.karlijnmorsink.com/), and Iza Eerkens), *Writing Draft*
 
