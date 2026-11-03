@@ -93,7 +93,7 @@ Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of I
 
 <details> 
 <summary>
-  Tailoring Advice and Incentives to Enhance Consumer Welfare from Catastrophic Drought Insurance, 
+  Paying Agents to Promote Consumer Welfare from Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://sites.google.com/cornell.edu/nathan-jensen/home">Nathan Jensen</a>, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and Max Yap)
 </summary>
 <div class="text-box">
