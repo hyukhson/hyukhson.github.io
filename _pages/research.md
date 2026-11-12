@@ -59,7 +59,7 @@ We describe a unique environment in which undergraduate students from various ST
 ## Working Papers
 <details> 
 <summary>
-Long-run Effects of Temporary Catastrophic Drought Insurance, 
+Long-run Effects of Temporary Catastrophic Drought Insurance Coverage, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, <a href="https://sites.google.com/cornell.edu/nathan-jensen/home">Nathan Jensen</a>, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, Yuma Norimoto, Rupsha Banerjee, and Nils Teufel)
 <i>, R&R at American Economic Review </i> 
   <a href="https://hyukhson.github.io/files/Long_run_Effects_of_Catastrophic_Drought_Insurance.pdf"> [Link] </a>,
