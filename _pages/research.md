@@ -97,7 +97,7 @@ Reducing Child Labor through Risk Management: Short-Term Behavioral Effects of I
 <summary>
   Paying Agents to Promote Consumer Welfare from Catastrophic Drought Insurance, 
 (with <a href="http://barrett.dyson.cornell.edu/">Chris Barrett</a>, Tagel Gabrehiwot Gidey,  <a href="https://sites.google.com/cornell.edu/nathan-jensen/home">Nathan Jensen</a>, <a href="https://www.karlijnmorsink.com/">Karlijn Morsink</a>, and Max Yap)
- 4<a href="https://hyukhson.github.io/files/paying_agents_to_promote_consumer_welfare.pdf"> [Link] </a> 
+ <a href="https://hyukhson.github.io/files/paying_agents_to_promote_consumer_welfare.pdf"> [Link] </a> 
 </summary>
 <div class="text-box">
 <p style="text-align: left; background-color: #F1F1F1; border: 7px solid white;">
